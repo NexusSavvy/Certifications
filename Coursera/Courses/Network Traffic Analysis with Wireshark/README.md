@@ -1,4 +1,4 @@
-# Network Traffic Analysis with Wireshark [🔗](#)
+# Network Traffic Analysis with Wireshark [🔗](https://coursera.org/share/d9bd0dfb8eefb8e540ec2635515f1902)
 
 Decode the digital pulse of your network—this course provided a masterclass in deep packet inspection and protocol analysis using the industry-standard tool, Wireshark.
 
